@@ -233,5 +233,3 @@ sudo gitlab-ctl reconfigure
 * 定期設定備份與監控
 
 ---
-
-✅ 本文件適合直接存成 `gitlab-install.md` 使用
